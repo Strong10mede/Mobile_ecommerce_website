@@ -1,0 +1,21 @@
+{
+  "name": "mobile_ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Strong10mede/Mobile_ecommerce_website.git"
+  },
+  "author": "Mayur Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Strong10mede/Mobile_ecommerce_website/issues"
+  },
+  "homepage": "https://github.com/Strong10mede/Mobile_ecommerce_website#readme"
+}
